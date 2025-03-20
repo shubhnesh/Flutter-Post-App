@@ -49,7 +49,7 @@ A Flutter app that fetches and displays posts from the JSONPlaceholder API, impl
     <p align="center">
       <img src="https://github.com/shubhnesh/Flutter-Post-App/blob/main/Screenshots/loading.jpg" width="250">
       <img src="https://github.com/shubhnesh/Flutter-Post-App/blob/main/Screenshots/home.jpg" width="250">
-      <img src="https://github.com/shubhnesh/Flutter-Post-App/blob/main/Screenshots/detail.jpg" width="250">
+      <img src="https://github.com/shubhnesh/Flutter-Post-App/blob/main/Screenshots/details.jpg" width="250">
     </p>
 
 
