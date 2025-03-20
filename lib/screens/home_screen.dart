@@ -80,16 +80,10 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Center(
-          child: Text(
-            "Posts",
-            style: TextStyle(
-              fontWeight: FontWeight.bold,
-              color: Colors.white,
-            ),
-          ),
-        ),
-      ),
+          title: Center(
+              child: Text(
+        "Posts",
+      ))),
       body: _errorMessage != null
           ? _buildErrorWidget() // Show error if exists
           : _buildPostList(),
