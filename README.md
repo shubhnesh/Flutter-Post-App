@@ -44,16 +44,16 @@ A Flutter app that fetches and displays posts from the JSONPlaceholder API, impl
  
  ## Screenshots
 
-- **Data successfully retrieved from the API**
+  - **Data successfully retrieved from the API**
 
-<p align="center">
-  <img src="https://github.com/shubhnesh/Flutter-Post-App/blob/main/Screenshots/loading.jpg" width="250">
-  <img src="https://github.com/shubhnesh/Flutter-Post-App/blob/main/Screenshots/home.jpg" width="250">
-  <img src="https://github.com/shubhnesh/Flutter-Post-App/blob/main/Screenshots/detail.jpg" width="250">
-</p>
+    <p align="center">
+      <img src="https://github.com/shubhnesh/Flutter-Post-App/blob/main/Screenshots/loading.jpg" width="250">
+      <img src="https://github.com/shubhnesh/Flutter-Post-App/blob/main/Screenshots/home.jpg" width="250">
+      <img src="https://github.com/shubhnesh/Flutter-Post-App/blob/main/Screenshots/detail.jpg" width="250">
+    </p>
 
 
-- **When an error occurs**
-<p align="center">
-  <img src=" https://github.com/shubhnesh/Flutter-Post-App/blob/main/Screenshots/error.jpg" width="250">
-</p>
+  - **When an error occurs at run time**
+  <p align="center">
+   <img src="https://github.com/shubhnesh/Flutter-Post-App/blob/main/Screenshots/error.jpg" width="250">
+  </p>
